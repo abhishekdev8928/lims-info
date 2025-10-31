@@ -29,7 +29,7 @@ License: **GNU General Public License (GPL)**
 | Application Server | Zope |
 | Database | ZODB (Zope Object Database) |
 | Front-End | HTML, JavaScript, CSS |
-| API | XML-RPC / REST (version aur add-ons par depend karta hai) |
+| API | XML-RPC  (Remote Pr / REST (version aur add-ons par depend karta hai) |
 | Authentication & Security | Plone/Zope security model |
 | Add-ons / Extensions | Plone product packages |
 | Deployment | WSGI / ZEO clustering optional |
